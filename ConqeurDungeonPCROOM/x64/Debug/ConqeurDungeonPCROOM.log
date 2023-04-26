@@ -1,0 +1,4 @@
+﻿dungeon.obj : error LNK2001: 확인할 수 없는 외부 기호 p
+save.obj : error LNK2001: 확인할 수 없는 외부 기호 p
+util.obj : error LNK2001: 확인할 수 없는 외부 기호 p
+C:\Users\82109\Desktop\ConqeurDungeonPCROOM\x64\Debug\ConqeurDungeonPCROOM.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
